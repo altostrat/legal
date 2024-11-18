@@ -1,3 +1,7 @@
+---
+section: "For All Users"
+---
+
 # Terms of Use
 
 > Version 1.0 - Last revised on 8 November 2024
