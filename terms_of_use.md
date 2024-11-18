@@ -1,10 +1,11 @@
 ---
 section: "For All Users"
+version: 1.0
+date: "11/08/2024"
 ---
 
 # Terms of Use
 
-> Version 1.0 - Last revised on 8 November 2024
 
 The website located at altostrat.io, altostrat.co, altostrat.ai (the "**Site**") is a copyrighted work belonging to Altostrat Networks, Inc. ("**Company**", "**us**", "**our**", and "**we**"). Certain features of the Site may be subject to additional guidelines, terms, or rules, which will be posted on the Site in connection with such features. All such additional terms, guidelines, and rules are incorporated by reference into these Terms.
 
@@ -72,7 +73,7 @@ The following terms constitute our "**Acceptable Use Policy**":
 
 We reserve the right (but have no obligation) to review, refuse and/or remove any User Content in our sole discretion, and to investigate and/or take appropriate action against you in our sole discretion if you violate the Acceptable Use Policy or any other provision of these Terms or otherwise create liability for us or any other person. Such action may include removing or modifying your User Content, terminating your Account in accordance with Section 8, and/or reporting you to law enforcement authorities.
 
-### 4. Indemnification
+## 4. Indemnification
 
 You agree to indemnify and hold Company (and its officers, employees, and agents) harmless, including costs and attorneys' fees, from any claim or demand made by any third party due to or arising out of (a) your use of the Site, (b) your violation of these Terms, (c) your violation of applicable laws or regulations or (d) your User Content. Company reserves the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate with our defense of these claims. You agree not to settle any matter without the prior written consent of Company. Company will use reasonable efforts to notify you of any such claim, action or proceeding upon becoming aware of it.
 
